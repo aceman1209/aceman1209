@@ -22,7 +22,7 @@
   - [It's Not A Dream...](https://steamcommunity.com/sharedfiles/filedetails/?id=592161203) - mod for the visual novel named Everlasting Summer.
 
 ## **🐾How to reach me**
-### - Discord: AceMan#8926
+### Discord: AceMan#8926
 
 ## **😼What i'm using to code**
 [<img align="left" alt="Intellij Community" width="30px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />](https://www.jetbrains.com/idea/)
