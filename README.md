@@ -1,3 +1,4 @@
+### **🐾My path on the github begins on March 17, 2021🐾**
 # **👋Hi, I’m aceman1209**
 ### **My real name is Artem Abramov. I'm an amateur developer. I started learning programming languages and writing my programs in 2015. At the moment I stopped at Java and Minecraft mod development. My English isn't as good as I would like it to be, so I have to use a translator.**
 
@@ -27,7 +28,6 @@
 [<img align="left" alt="Intellij Community" width="30px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Visual Studio 2019 Community" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />](https://visualstudio.microsoft.com/en/)
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" />](https://visualstudio.microsoft.com/en)
-<br />
 <br />
 
 ## **🔨My github stats**
