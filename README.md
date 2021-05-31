@@ -11,7 +11,7 @@
 - Visual Basic - attempts at medium school. It's obsolete now and I don't use it.
 
 ## **💞️My projects**
-### **⭐Things I'm involved in or working on.**
+### **⭐Things I'm involved in or working on**
 - **2021**
   - [Mohist](https://github.com/MohistMC/Mohist) - This project is a combination of Forge + Spigot/Paper API to make Minecraft plugins and mods working together.
 
