@@ -24,9 +24,9 @@
 ### - Discord: AceMan#8926
 
 ## **😼What i'm using to code ?**
-[<img align="left" alt="Intellij Community" width="30px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />](https://www.jetbrains.com/ru-ru/idea/)
-[<img align="left" alt="Visual Studio 2019 Community" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />](https://visualstudio.microsoft.com/ru/)
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" />](https://visualstudio.microsoft.com/ru/)
+[<img align="left" alt="Intellij Community" width="30px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />](https://www.jetbrains.com/idea/)
+[<img align="left" alt="Visual Studio 2019 Community" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />](https://visualstudio.microsoft.com/en/)
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" />](https://visualstudio.microsoft.com/en)
 
 <!---
 aceman1209/aceman1209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
