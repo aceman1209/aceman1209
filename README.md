@@ -12,7 +12,7 @@
 - Visual Basic - attempts at medium school. It's obsolete now and I don't use it.
 
 ## **💞️My projects**
-### **⭐I'm involved in or working**
+### **⭐Participating or working**
 - **Nothing here now**
 ### **🏆Completed**
 - **2016**
