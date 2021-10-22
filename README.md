@@ -5,7 +5,7 @@
 ## **👀 Programming languages that I have learned, am learning or will learn**
 - C# - started with this. I don't know the latest updates, but I can write average code without much trouble, will probably use google or docs. Learned the concept of object-oriented programming in this language.
 - Java - I use Java 8. I know a few tricks and the concept of how the code works, but I don't think I know enough to call myself a professional. I use this language most of the time to Minecraft mod development.
-- PHP - using it on my main work.
+- PHP - using it on my main job.
 - Python - ren'py development. Attempts to port novellas and a few attempts to write my own. At the moment only one project is finished.
 - Lua - only in opencomputers mod. Almost never used standalone.
 - C++ - very little experience on linux and at university. A simple graphical tablet driver with coordinate mapping was written on linux, but it has a lot of bugs. There were few tasks at the university and they were all simple.
