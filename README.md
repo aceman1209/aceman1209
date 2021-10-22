@@ -12,9 +12,9 @@
 - Visual Basic - attempts at medium school. It's obsolete now and I don't use it.
 
 ## **💞️My projects**
-### **⭐Things I'm involved in or working on**
+### **⭐I'm involved in or working**
 - **Nothing here now**
-### **🏆Finished**
+### **🏆Completed**
 - **2016**
   - [It's Not A Dream...](https://steamcommunity.com/sharedfiles/filedetails/?id=592161203) - mod for the visual novel named Everlasting Summer.
 ### **:snowflake:Participation is suspended (freezed)**
